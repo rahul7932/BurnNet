@@ -1,2 +1,4 @@
-# BurnNet-An-Efficient-Deep-Learning-Framework-for-Accurate-Dermal-Burn-Classification
+# BurnNet: An Efficient Deep Learning Framework for Accurate Dermal Burn Classification
+# Abstract
 Burns are the fourth most prevalent unintentional injury around the world, and when left untreated can become permanent and sometimes fatal. An important aspect of treating burn injuries is accurate and efficient diagnosis. Classifying the three primary types of burns – superficial dermal, deep dermal, and full thickness – is essential in determining the necessity of surgery, which is often critical to the afflicted patient’s survival. Unfortunately, reconstructive burn surgeons and dermatologists are merely able to diagnose these types of burns with approximately 50-75% accuracy. As a result, we propose the use of an eight-layer convolutional neural network, BurnNet, for rapid and precise burn classification with 99.87% accuracy. We applied affine transformations to artificially augment our dataset and found that our model attained near perfect metrics across the board, demonstrating the high propensity of deep learning architectures in burn classification.
+
